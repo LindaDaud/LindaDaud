@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindaDaud
 
-🧐 Interested Cloud Computing
+🧐 Interested in AWS Cloud Computing
 
 📝 Contact: daudlinda805@gmail.com
 

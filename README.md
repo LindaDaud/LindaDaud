@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @LindaDaud
+ 👋 Hi, I'm Linda Daud
 
-🧐 Interested in AWS Cloud Computing
+🌩️ **Aspiring Cloud & Software Engineer**  
+🎯 Transitioning from Tech Sales to Tech Building  
+📚 Currently learning Software Development @Power Learn Project  
+☁️ Passionate about Cloud Computing & AI Integration   
+🌍 Based in Kenya 
 
 📝 Contact: daudlinda805@gmail.com
 
